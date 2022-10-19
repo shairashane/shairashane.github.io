@@ -93,7 +93,7 @@
     width: 50px;
     height: 50px;
     background:silver;
-    color:#050a0c;
+    color:white;
     border-radius: 50%;
     margin-right: 15px;
     font-size: 50px;
@@ -109,7 +109,7 @@
   }
   
   .resume .resume_left ul li .data {
-    color:black;
+    color:white;
     font-size:16px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
@@ -117,7 +117,7 @@
   .resume .resume_left .resume_skills ul li {
     display: flex;
     margin-bottom: 10px;
-    color:black;
+    color:white;
     justify-content: space-between;
     align-items: center;
   }
@@ -131,7 +131,7 @@
     width: 45%;
     margin: 0 5px;
     height: 5px;
-    background:black;
+    background:whitesmoke;
     position: relative;
   }
   
