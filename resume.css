@@ -162,8 +162,8 @@
     color: #050a0c;
   }
   
-  .resume .resume_right .resume_education,
-  .resume .resume_right .resume_awards ul {
+  .resume .resume_right .resume_work ul,
+  .resume .resume_right .resume_education ul {
     padding-left: 40px;
     overflow: hidden;
   }
