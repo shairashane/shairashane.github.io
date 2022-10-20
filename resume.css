@@ -47,7 +47,7 @@
   
   .resume .resume_left .resume_profile img {
       width: 68%;
-      min-height: 0%;
+      min-height: 2%;
       margin-left: 15%;
       border-radius: 50%;
       border: 5px solid black
