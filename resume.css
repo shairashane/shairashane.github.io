@@ -245,6 +245,7 @@
     font-size: 15px;
     font-family: monospace;
     color: black;
+    justify-content: right;
   } 
   .title h2{
     margin-left: 30%;
