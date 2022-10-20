@@ -11,7 +11,7 @@
   }
   
   body {
-    background:black;
+    background:whitesmoke;
     font-size: 12px;
     line-height: 25px;
     color:black;
@@ -37,7 +37,7 @@
   
   .resume .resume_left {
     width: 350px;
-    background:rgb(209, 98, 25));
+    background:rgb(7, 204, 230);
   }
   
   .resume .resume_left .resume_profile {
